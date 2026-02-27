@@ -61,7 +61,7 @@ These were solved by carefully reading official Bootstrap documentation and test
 ---
 
 Time Taken
-Approximately 6–8 hours including:
+Approximately 2 hours including:
 - Learning components
 - Building pages
 - Testing responsiveness
